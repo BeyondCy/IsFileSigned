@@ -19,10 +19,6 @@ NTREADFILE NtReadFile = GetProcAddress(hMod, "NtReadFile");
 
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 * [Dev C++](https://sourceforge.net/projects/orwelldevcpp/)
